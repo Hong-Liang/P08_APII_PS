@@ -1,0 +1,2 @@
+rootProject.name='P08_APII_PS'
+include ':app'
